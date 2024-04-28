@@ -1,0 +1,15 @@
+[ARFM_TaipanEyes X2GeneModTemplate]
+DisplayName="Crystalline Cornea"
+Summary="Massively sharpens the visual acuity of the Soldier, granting them increased Aim and Flanking Aim."
+
+[ARFM_TaipanSkin X2GeneModTemplate]
+DisplayName="Ablative Scales"
+Summary="Attacks against this Soldier have a chance to be downgraded into Grazes, but the dermal changes render the Soldier extremely flammable."
+
+[ARFM_TitanMuscle X2GeneModTemplate]
+DisplayName="Hyperdense Musculature"
+Summary="Hyperdense Musculature grants the Soldier Fortitude, reducing damage taken proportionally to the percentage of Missing Health."
+
+[ARFM_HinterNeurons X2GeneModTemplate]
+DisplayName="Mirror Neurons"
+Summary="This is an incredibly bad idea to attempt. Implanting Nodules of Hinter Neural Tissue into a Human brain may allow the two to integrate, opening the Soldier to the ravenous powers of The Void. This will mildly destabilize the Soldier's psyche, but will enable the Soldier to wield esoteric powers. This will, however, render the Soldier extremely vulnerable to Psionic influences, including that of The Requiem. The benefits of Stainless Equipment and Mind Shields will be nullified on this Soldier."
